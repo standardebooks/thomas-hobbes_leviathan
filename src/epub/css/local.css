@@ -50,3 +50,19 @@ blockquote[xml|lang]{
 [epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
+
+figure{
+	break-inside: avoid;
+}
+
+figure img{
+	display: block;
+	margin: auto;
+	max-width: 100%;
+}
+
+figcaption{
+	font-size: .75em;
+	font-style: italic;
+	margin: 1em;
+}
