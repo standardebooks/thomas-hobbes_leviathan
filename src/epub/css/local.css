@@ -2,13 +2,22 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
-p[epub|type~="z3998:salutation"] + p{
+[epub|type~="z3998:salutation"]{
+	padding-left: 2em;
+	text-align: initial;
 	text-indent: 0;
 }
 
-[epub|type~="z3998:salutation"]{
-	margin-bottom: 0.5em;
-	padding-left: 2em;
+section[epub|type~="dedication"] > header > p:first-of-type{
+	font-size: 1.5em;
+	font-variant: small-caps;
+	font-weight: bold;
+	margin: 3em 0;
+	text-align: center;
+}
+
+section[epub|type~="dedication"] > header + *{
+	margin-top: 1em;
 }
 
 [epub|type~="z3998:salutation"],
@@ -17,12 +26,17 @@ p[epub|type~="z3998:salutation"] + p{
 }
 
 [epub|type~="z3998:valediction"]{
-	margin-top: 0.5em;
 	padding-left: 2em;
 	text-indent: 0;
 }
 
 [epub|type~="z3998:signature"]{
+	padding-left: 2em;
+	text-indent: 0;
+}
+
+[epub|type~="se:letter.dateline"]{
+	margin-top: 1em;
 	padding-left: 2em;
 	text-indent: 0;
 }
