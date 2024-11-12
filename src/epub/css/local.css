@@ -60,12 +60,6 @@ figure img{
 	max-width: 100%;
 }
 
-figcaption{
-	font-size: smaller;
-	font-style: italic;
-	margin: 1em;
-}
-
 ol{
 	list-style-type: upper-roman;
 }
