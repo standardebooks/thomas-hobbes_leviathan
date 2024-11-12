@@ -3,8 +3,10 @@
 @namespace xml "http://www.w3.org/XML/1998/namespace";
 
 [epub|type~="z3998:salutation"]{
-	padding-left: 2em;
-	text-align: initial;
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:salutation"] + p{
 	text-indent: 0;
 }
 
@@ -17,28 +19,11 @@ section[epub|type~="dedication"] > header > p:first-of-type{
 }
 
 section[epub|type~="dedication"] > header + *{
+	margin-top: 0;
+}
+
+section[epub|type~="dedication"] footer p:last-child{
 	margin-top: 1em;
-}
-
-[epub|type~="z3998:salutation"],
-[epub|type~="z3998:signature"]{
-	font-variant: small-caps;
-}
-
-[epub|type~="z3998:valediction"]{
-	padding-left: 2em;
-	text-indent: 0;
-}
-
-[epub|type~="z3998:signature"]{
-	padding-left: 2em;
-	text-indent: 0;
-}
-
-[epub|type~="se:letter.dateline"]{
-	margin-top: 1em;
-	padding-left: 2em;
-	text-indent: 0;
 }
 
 footer{
