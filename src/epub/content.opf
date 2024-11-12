@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/thomas-hobbes/leviathan</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-12T21:35:00Z</dc:date>
+		<meta property="dcterms:modified">2024-11-12T21:35:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -47,18 +47,19 @@
 		<meta property="se:subject">Philosophy</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:description id="description">Hobbes presents a compelling argument for the establishment of a strong, centralized authority in order to maintain order and prevent chaos. He provides a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.</dc:description>
+		<dc:description id="description">Hobbes explores a vision of the ideal state, in which people cede certain freedoms to a sovereign power in exchange for security and stability.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Leviathan&lt;/i&gt;, published in 1651 by &lt;a href="https://standardebooks.org/ebooks/thomas-hobbes"&gt;Thomas Hobbes&lt;/a&gt;, is a foundational text in political philosophy that explores the structure of society and legitimate government. Hobbes uses the metaphor of the Leviathan, a sea creature from biblical lore, to represent the powerful state that arises from the collective agreement of individuals. He argues that in a state of nature, humans are driven by self-interest and are in constant conflict, leading to a life that is “solitary, poor, nasty, brutish, and short.” To escape this chaos, individuals come together to form a social contract, agreeing to cede certain freedoms to a sovereign authority in exchange for security and order.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Leviathan&lt;/i&gt; is a foundational text in political philosophy that explores the structure of society and legitimate government. &lt;a href="https://standardebooks.org/ebooks/thomas-hobbes"&gt;Hobbes&lt;/a&gt; uses the metaphor of the Leviathan, a sea creature from biblical lore, to represent the powerful state that arises from the collective agreement of individuals. He argues that in a state of nature, humans are driven by self-interest and are in constant conflict, leading to a life that is “solitary, poor, nasty, brutish, and short.” To escape this chaos, individuals come together to form a social contract, agreeing to cede certain freedoms to a sovereign authority in exchange for security and order.&lt;/p&gt;
 			&lt;p&gt;Hobbes’s political theory is grounded in a materialist view of human nature, which posits that humans are motivated primarily by fear and self-preservation. He emphasizes the importance of a strong, centralized authority—whether a monarch or an assembly—to maintain peace and prevent the descent into anarchy. This sovereign power must be absolute to effectively control the inherently aggressive tendencies of human beings. The book challenges the divine right of kings and provides a secular justification for political authority, arguing that the legitimacy of the state derives from its ability to provide security rather than divine sanction.&lt;/p&gt;
-			&lt;p&gt;Throughout, Hobbes engages with various philosophical and theological ideas, addressing the nature of human beings, morality, and the role of religion in society. He argues that civil laws should be based on social contracts rather than religious dictates, advocating for a separation between church and state. Hobbes’s work laid the groundwork for later political theories, influencing thinkers such as John Locke and Jean-Jacques Rousseau. Its enduring relevance in discussions about governance, individual rights, and the balance between liberty and security continues to resonate in contemporary political discourse.&lt;/p&gt;
+			&lt;p&gt;Throughout, Hobbes engages with various philosophical and theological ideas, addressing the nature of human beings, morality, and the role of religion in society. He argues that civil laws should be based on social contracts rather than religious dictates, advocating for a separation between church and state.&lt;/p&gt;
+			&lt;p&gt;Hobbes’s work laid the groundwork for later political theories, influencing thinkers such as &lt;a href="https://standardebooks.org/ebooks/john-locke"&gt;Locke&lt;/a&gt; and &lt;a href="https://standardebooks.org/ebooks/jean-jacques-rousseau"&gt;Rousseau&lt;/a&gt;. Its enduring relevance in discussions about governance, individual rights, and the balance between liberty and security continues to resonate in contemporary political discourse.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/titles/hobbes-the-english-works-vol-iii-leviathan</dc:source>
 		<dc:source>https://archive.org/details/cu31924030436533</dc:source>
 		<meta property="se:production-notes">The scans of the 1894 Routledge edition are considered authoritative over the transcription of the 1839 Bohn edition, as the Routledge edition modernizes punctuation, spelling and capitalization, and omits the shoulder notes.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">208296</meta>
+		<meta property="se:reading-ease.flesch">49.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leviathan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hobbes_leviathan</meta>
 		<dc:creator id="author">Thomas Hobbes</dc:creator>
@@ -87,6 +88,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsaved.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
