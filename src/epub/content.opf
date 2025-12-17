@@ -58,7 +58,7 @@
 		<dc:source>https://oll.libertyfund.org/titles/hobbes-the-english-works-vol-iii-leviathan</dc:source>
 		<dc:source>https://archive.org/details/cu31924030436533</dc:source>
 		<meta property="se:production-notes">The scans of the 1894 Routledge edition are considered authoritative over the transcription of the 1839 Bohn edition, as the Routledge edition modernizes punctuation, spelling and capitalization, and omits the shoulder notes.</meta>
-		<meta property="se:word-count">208296</meta>
+		<meta property="se:word-count">208294</meta>
 		<meta property="se:reading-ease.flesch">49.93</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Leviathan</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/thomas-hobbes_leviathan</meta>
