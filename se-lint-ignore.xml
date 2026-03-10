@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-34.xhtml">
 		<ignore code="t-005">
+			<line>16</line>
 			<reason>Detected text is not dialog.</reason>
 		</ignore>
 	</file>
