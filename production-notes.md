@@ -1,0 +1,1 @@
+The scans of the 1894 Routledge edition are considered authoritative over the transcription of the 1839 Bohn edition, as the Routledge edition modernizes punctuation, spelling and capitalization, and omits the shoulder notes.
