@@ -38,8 +38,8 @@
 		<dc:title id="fulltitle">Leviathan; or, The Matter, Form and Power of a Commonwealth, Ecclesiastical and Civil</dc:title>
 		<meta property="file-as" refines="#fulltitle">Leviathan; or, the Matter, Form and Power of a Commonwealth, Ecclesiastical and Civil</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
-		<dc:subject id="subject-1">Political science -- Early works to 1800</dc:subject>
-		<dc:subject id="subject-2">State, The -- Early works to 1800</dc:subject>
+		<dc:subject id="subject-1">Political science--Early works to 1800</dc:subject>
+		<dc:subject id="subject-2">State, The--Early works to 1800</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85104443</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
