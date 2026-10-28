@@ -59,7 +59,7 @@
 		<dc:source>https://oll.libertyfund.org/titles/hobbes-the-english-works-vol-iii-leviathan</dc:source>
 		<dc:source>https://archive.org/details/cu31924030436533</dc:source>
 		<meta property="schema:wordCount">207766</meta>
-		<meta property="schema:educationalLevel">49.93</meta>
+		<meta property="schema:educationalLevel">49.83</meta>
 		<link href="https://en.wikipedia.org/wiki/Leviathan" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
